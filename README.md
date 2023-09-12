@@ -1,6 +1,6 @@
-# Musixmatch Python API Tutorial for Developers
+# Afro-Lyrical-Artistry 
 
-![Musixmatch](https://about.musixmatch.com/images/share-image.png)
+![Afro-Lyrical-Artistry](https://imgur.com/a/wBrAoee)
 
 Use python to interact with the Musixmatch API for song lyrics
 
@@ -16,12 +16,12 @@ Use python to interact with the Musixmatch API for song lyrics
 2. Install requests from terminal
 
 ```
-sudo pip3 install requests
+pip3 install requests
 ```
 
-3. Enter you API key inside of lyrics_api.py
+3. Enter you API key inside of afro_lyrical_api.py
 
-4. Run lyrics.py
+4. Run afro_lyrical.py
 
 ### Menu options
 
@@ -31,11 +31,11 @@ sudo pip3 install requests
 
 ## Built With
 
-* [Atom](http://www.atom.io) - The web framework used
+* [GitBash](https://github.com/git-guides/install-git) - The text editor used
 
 
 ## Authors
 
-* **Ian Annase**
+* **Michael Omotosho (PacmanLoLo)**
 
-![Musixmatch](https://images-na.ssl-images-amazon.com/images/I/81NUdjKJ5RL.png)
+![PacmanLoLo](https://imgur.com/OOY21yd)
