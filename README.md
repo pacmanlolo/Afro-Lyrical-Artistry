@@ -2,7 +2,7 @@
 
 ![Afro-Lyrical-Artistry](https://imgur.com/a/wBrAoee)
 
-Use python to interact with the Musixmatch API for song lyrics
+Use python to interact with Afro-Lyrical-Artistry for song lyrics
 
 ### Prerequisites
 
