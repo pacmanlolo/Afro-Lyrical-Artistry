@@ -19,7 +19,7 @@ Use python to interact with Afro-Lyrical-Artistry for song lyrics
 pip3 install requests
 ```
 
-3. Enter you API key inside of afro_lyrical_api.py
+3. Enter your API(generated from Musixmatch.com) key inside of afro_lyrical_api.py
 
 4. Run afro_lyrical.py
 
